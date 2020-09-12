@@ -1,7 +1,7 @@
 # Field Censor 1914: Game Demo #
 
 ### Introduction ###
-In the summer of my second year at college (2015) I tried to create a video game. I was inspired by [*Papers, Please*](https://en.wikipedia.org/wiki/Papers%2C_Please), an unusual indie game in which you play as an immigration officer at a fictional Soviet-Union like border. *Papers, Please* created ethical dilemmas and a complex narrative through what seemed like a very limited interface – you sat at a desk and stamped passports to let people in or not. It made immigration bureaucracy into a dystopian adventure.
+In the summer of my second year at college (2016) I tried to create a video game. I was inspired by [*Papers, Please*](https://en.wikipedia.org/wiki/Papers%2C_Please), an unusual indie game in which you play as an immigration officer at a fictional Soviet-Union like border. *Papers, Please* created ethical dilemmas and a complex narrative through what seemed like a very limited interface – you sat at a desk and stamped passports to let people in or not. It made immigration bureaucracy into a dystopian adventure.
 
 I wanted to create similar dynamics – exciting narrative, ethical dilemmas, and subtle world-building – in Field Censor 1914. Having recently taken a class on the First World War, I was fascinated by the futile attrition of trench warfare on the Western Front – in stark contrast to the jingoistic propaganda that had escalated the conflict. When I found out that British officers had to censor the letters their troops were sending back home, I spotted an opportunity for a new type of game-story.
 
